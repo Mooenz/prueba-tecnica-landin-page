@@ -257,7 +257,7 @@ html {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: url(../assets/jpeg/bg-banner.jpeg) center/cover no-repeat rgba(0, 0, 0, 0.5);
+  background: url(../assets/jpeg/bg-banner.jpeg) top/cover no-repeat rgba(0, 0, 0, 0.5);
   background-blend-mode: multiply;
   padding: 30px 24px;
 }
