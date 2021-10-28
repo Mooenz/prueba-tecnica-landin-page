@@ -82,7 +82,7 @@ html {
 
 .hero-container .hero {
   padding: 40px 24px 100px;
-  background: url(../assets/bg-hero.jpeg) center/cover no-repeat #8db7cf83;
+  background: url(../assets/jpeg/bg-hero.jpeg) center/cover no-repeat #8db7cf83;
   background-blend-mode: multiply;
   position: relative;
 }
@@ -171,7 +171,7 @@ html {
   display: inline-block;
   height: 16px;
   width: 16px;
-  background: url(../assets/check.svg) center/contain no-repeat;
+  background: url(../assets/svg/check.svg) center/contain no-repeat;
 }
 
 .hero-container .form {
@@ -257,7 +257,7 @@ html {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: url(../assets/bg-banner.jpeg) center/cover no-repeat rgba(0, 0, 0, 0.5);
+  background: url(../assets/jpeg/bg-banner.jpeg) center/cover no-repeat rgba(0, 0, 0, 0.5);
   background-blend-mode: multiply;
   padding: 30px 24px;
 }
@@ -266,7 +266,7 @@ html {
   display: inline-block;
   height: 70px;
   width: 70px;
-  background: url(../assets/hat.svg) center/contain no-repeat;
+  background: url(../assets/svg/hat.svg) center/contain no-repeat;
 }
 
 .banner p {
@@ -347,19 +347,19 @@ html {
 }
 
 .lessons__card-class .logo-1 {
-  background: url(../assets/1.svg) center/contain no-repeat;
+  background: url(../assets/svg/1.svg) center/contain no-repeat;
 }
 
 .lessons__card-class .logo-2 {
-  background: url(../assets/2.svg) center/contain no-repeat;
+  background: url(../assets/svg/2.svg) center/contain no-repeat;
 }
 
 .lessons__card-class .logo-3 {
-  background: url(../assets/3.svg) center/contain no-repeat;
+  background: url(../assets/svg/3.svg) center/contain no-repeat;
 }
 
 .lessons__card-class .logo-4 {
-  background: url(../assets/5.svg) center/contain no-repeat;
+  background: url(../assets/svg/5.svg) center/contain no-repeat;
 }
 
 .footer {
