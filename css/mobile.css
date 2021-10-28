@@ -421,11 +421,10 @@ html {
 }
 
 .footer__end {
-  padding: 24px;
+  padding: 10px 24px;
   background-color: #4d4d4d;
   color: #fff;
   font-size: 1.2rem;
   line-height: 2.2rem;
-  letter-spacing: 0.1rem;
 }
 /*# sourceMappingURL=mobile.css.map */
