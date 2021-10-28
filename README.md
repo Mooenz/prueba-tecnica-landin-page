@@ -1,12 +1,12 @@
-# **Prueba tecnica landin page**
+# **Prueba tecnica landin page** 🚀
 
 Landing page creada para una prueba tecnica como maquetador web.
 
-## **Demo**
+## **Demo** 🔍
 
 [Ver el sitio Aquí](https://mooenz.github.io/prueba-tecnica-landin-page/)
 
-## **Proyecto**
+## **Proyecto** 🧾
 
 La prueba consiste en maquetar en HTML, el modelo que se encuentra a continuación, teniendo en cuenta las siguientes instrucciones:
 
@@ -22,11 +22,11 @@ La prueba consiste en maquetar en HTML, el modelo que se encuentra a continuaci�
 
 ![Diseño](./resultado.png)
 
-## Contacto
+## Contacto 📧
 
 - Linkedin [Mooenz](https://www.linkedin.com/in/mooenz/)
 - Web Site [Curriculum Vitae](https://mooenz.github.io/curriculum-vitae/)
 
-## Licence
+## Licence 🛸
 
 This project is MIT licensed
