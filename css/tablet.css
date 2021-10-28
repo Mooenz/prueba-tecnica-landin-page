@@ -1,0 +1,52 @@
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.header__img-container {
+  width: 150px;
+}
+
+.header__nav ul {
+  height: 50px;
+}
+
+.hero-container .hero {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 300px;
+}
+
+.hero-container .hero__content {
+  width: 50%;
+}
+
+.hero-container .form form {
+  width: 80%;
+  margin: auto;
+}
+
+.banner {
+  height: 400px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.banner p {
+  font-size: 3rem;
+  line-height: 3.5rem;
+  text-align: center;
+}
+/*# sourceMappingURL=tablet.css.map */

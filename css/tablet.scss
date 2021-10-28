@@ -1,0 +1,45 @@
+.header {
+  display: flex;
+  flex-wrap: wrap;
+
+  &__img-container {
+    width: 150px;
+  }
+
+  &__nav {
+    ul {
+      height: 50px;
+    }
+  }
+}
+
+.hero-container {
+  .hero {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    height: 300px;
+
+    &__content {
+      width: 50%;
+    }
+  }
+
+  .form {
+    form {
+      width: 80%;
+      margin: auto;
+    }
+  }
+}
+
+.banner {
+  height: 400px;
+  flex-direction: column;
+
+  p {
+    font-size: 3rem;
+    line-height: 3.5rem;
+    text-align: center;
+  }
+}
